@@ -9,7 +9,7 @@ import CreateBlog from './pages/CreateBlog';
 import EditBlog from './pages/EditBlog';
 import Profile from './pages/Profile';
 import BlogView from './pages/BlogView';
-import './App.css';
+// import './App.css';
 
 function App() {
   return (
