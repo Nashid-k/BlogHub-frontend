@@ -136,6 +136,25 @@ Access the application at [http://localhost:3000](http://localhost:3000)
 
 - `GET /api/users/me` – Get current user profile
 
+## 🎥 Demo Video
+
+### 🎬 Full Application Demo
+
+<video width="100%" controls>
+  <source src="demo/BlogHub.webm" type="video/webm">
+  Your browser does not support the video tag. 
+  <a href="demo/BlogHub.webm">Download the demo video</a>
+</video>
+
+*The demonstration includes:*  
+- Complete user registration and authentication flow  
+- Creating, reading, updating, and deleting blog posts  
+- User authorization and security features  
+- Responsive design across different devices  
+- Error handling and user feedback mechanisms
+
+**📱 Mobile Users:** If the video doesn't play, [download it here](demo/BlogHub.webm)
+
 ## 📸 Screenshots
 
 ### 1. Home Page - All Blogs  
@@ -169,18 +188,6 @@ Access the application at [http://localhost:3000](http://localhost:3000)
 ### 8. Mobile Responsive Design  
 ![Mobile View](screenshots/mobile-view.png)  
 *Fully responsive design optimized for mobile devices.*
-
-## 🎥 Demo Video
-
-**Full Application Demo:**  
-*Demo video coming soon - showcasing complete application functionality*
-
-*The demonstration will include:*  
-- Complete user registration and authentication flow  
-- Creating, reading, updating, and deleting blog posts  
-- User authorization and security features  
-- Responsive design across different devices  
-- Error handling and user feedback mechanisms
 
 ## 🔐 Security Features
 
