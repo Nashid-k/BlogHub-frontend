@@ -139,35 +139,43 @@ Access the application at [http://localhost:3000](http://localhost:3000)
 ## 📸 Screenshots
 
 ### 1. Home Page - All Blogs  
-![Home Page](screenshots/Home-Page.png discover all published blog posts with a clean, responsive layout.*
+![Home Page](screenshots/home-page.png)  
+*Discover all published blog posts with a clean, responsive layout.*
 
 ### 2. User Registration  
-![Register Page](screenshots/Register-Page registration with form validation and error handling.*
+![Register Page](screenshots/register-page.png)  
+*Secure user registration with form validation and error handling.*
 
 ### 3. User Login  
-![Login Page](screenshots/Login-Page.png with remember me functionality.*
+![Login Page](screenshots/login-page.png)  
+*Streamlined authentication with remember me functionality.*
 
 ### 4. User Profile & Dashboard  
-![Profile Page](screenshots/Profile-Page showing profile information and authored blog posts.*
+![Profile Page](screenshots/profile-page.png)  
+*Comprehensive dashboard showing profile information and authored blog posts.*
 
 ### 5. Create New Blog Post  
-![Create Blog](screenshots/Create-Blog creation interface with rich text editing capabilities.*
+![Create Blog](screenshots/create-blog.png)  
+*Intuitive blog creation interface with rich text editing capabilities.*
 
 ### 6. Single Blog View  
-![Blog View](screenshots/Blog-View.png post view with author information and interaction options.*
+![Blog View](screenshots/blog-view.png)  
+*Detailed blog post view with author information and interaction options.*
 
 ### 7. Edit Blog Post  
-![Edit Blog](screenshots/Edit-Blog.png for blog authors with save/cancel options.*
+![Edit Blog](screenshots/edit-blog.png)  
+*Seamless editing experience for blog authors with save/cancel options.*
 
 ### 8. Mobile Responsive Design  
-![Mobile View](screenshots/Mobile-View design optimized for mobile devices.*
+![Mobile View](screenshots/mobile-view.png)  
+*Fully responsive design optimized for mobile devices.*
 
 ## 🎥 Demo Video
 
 **Full Application Demo:**  
-[▶️ Watch Demo (BlogHub.webm)](demo/BlogHub.webm)  
+*Demo video coming soon - showcasing complete application functionality*
 
-*The demonstration includes:*  
+*The demonstration will include:*  
 - Complete user registration and authentication flow  
 - Creating, reading, updating, and deleting blog posts  
 - User authorization and security features  
