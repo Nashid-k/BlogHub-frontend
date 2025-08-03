@@ -2,11 +2,6 @@
 
 A modern, responsive frontend for the BlogHub blogging platform built with React.js, featuring JWT-based authentication and comprehensive blog management functionality.
 
-## 🚀 Live Demo
-
-**Frontend URL:** [Your Deployed Frontend URL]  
-**Backend API:** [Your Backend API URL]
-
 ## 📋 Features
 
 ### User Authentication (JWT-based)
