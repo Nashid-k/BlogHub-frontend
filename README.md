@@ -136,15 +136,11 @@ Access the application at [http://localhost:3000](http://localhost:3000)
 
 - `GET /api/users/me` – Get current user profile
 
-## 🎥 Demo Video
+## 🎥 Demo
 
 ### 🎬 Full Application Demo
 
-<video width="100%" controls>
-  <source src="demo/BlogHub.webm" type="video/webm">
-  Your browser does not support the video tag. 
-  <a href="demo/BlogHub.webm">Download the demo video</a>
-</video>
+![BlogHub Demo](demo/BlogHub.gif)
 
 *The demonstration includes:*  
 - Complete user registration and authentication flow  
@@ -152,8 +148,6 @@ Access the application at [http://localhost:3000](http://localhost:3000)
 - User authorization and security features  
 - Responsive design across different devices  
 - Error handling and user feedback mechanisms
-
-**📱 Mobile Users:** If the video doesn't play, [download it here](demo/BlogHub.webm)
 
 ## 📸 Screenshots
 
